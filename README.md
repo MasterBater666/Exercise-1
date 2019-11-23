@@ -1,6 +1,6 @@
 # Exercise-1
 Language Python 
-Christian John Regis
-Renell Banol
-Lhorenz Petallo
+Christian John Regis (nakasalamin)
+Renell Banol(mabait)
+Lhorenz Petallo(masipag)
 
